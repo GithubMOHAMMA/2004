@@ -1,4 +1,4 @@
-git clone git@github.com:GithubMOHAMMA/2004.git
+git clone gh repo clone GithubMOHAMMA/2004
 
 ls
 
